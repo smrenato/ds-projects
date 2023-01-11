@@ -1,0 +1,42 @@
+site_name: MkDocs page
+site_url: https://squidfunk.github.io/smrenato.../
+site_author: Renato
+site_description: >-
+  longa
+  longa
+  descricao
+
+# Repository
+repo_name: smrenato/smrenato
+repo_url: https://github.com/smrenato/smrenato
+
+theme:
+  name: material
+
+  palette:
+  
+    - media: "(prefers-color-scheme: light)"
+      scheme: slate
+      primary: black
+      accent: deep orange
+      toggle:
+        icon: material/brightness-2
+        name: Switch to light mode
+
+    - scheme: default
+      primary: black
+      accent: deep orange
+      toggle:
+        icon: material/brightness-5
+        name: Switch to dark mode
+
+  icon:
+    repo: fontawesome/brands/github-alt
+
+markdown_extensions:
+  - pymdownx.emoji
+  - pymdownx.tasklist
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.highlight
+  - pymdownx.superfences

@@ -1,0 +1,1 @@
+# Manual CI pipeline for testing the build process
