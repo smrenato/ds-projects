@@ -16,9 +16,10 @@ dynaconf = "^3.1.11"
 mkdocs-material = "^9.0.3"
 pymdown-extensions = "^9.9"
 dvc = {extras = ["gdrive"], version = "^2.41.1"}
+ipykernel = "^6.20.2"
 
 [tool.poetry.scripts]
-dsp = "cli:main"
+dsp = "src.cli:main"
 
 [tool.poetry.group.dev.dependencies]
 black = "^22.12.0"

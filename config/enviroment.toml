@@ -1,0 +1,7 @@
+# Confurations for Hyperparameters 
+
+[default]
+PARAM = "default"
+
+[hparam]
+PARAM = "HPARAM"
