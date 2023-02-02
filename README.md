@@ -59,6 +59,11 @@
 
 # 💻 Tecnologias
 
-![image](https://img.shields.io/static/v1?label=DVC&message=data%20version%20control&color=orange&style=flat-square)
-![image](https://img.shields.io/static/v1?label=Poetry&message=v1.3.2&color=orange&style=flat-square)
-![image](https://img.shields.io/static/v1?label=mkdocs&message=material&color=orange&style=flat-square)
+![image](https://img.shields.io/badge/Python-3.10-9146F?style=for-the-badge&logo=python&logoColor=white&labelColor=46f)
+![image](https://img.shields.io/badge/DVC-2.41-9146F?style=for-the-badge&logo=dvc&logoColor=white&labelColor=13ADC7)
+![image](https://img.shields.io/badge/Poetry-1.3.2-9146F?style=for-the-badge&logo=poetry&logoColor=white&labelColor=60A5FA)
+![image](https://img.shields.io/badge/Dynaconf-3.1.11-9146F?style=for-the-badge&logo=.env&logoColor=white&labelColor=60A5FA)
+![image](https://img.shields.io/badge/Mkdocs-9.0.3-9146F?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=000000)
+![image](https://img.shields.io/badge/Ipykernel-6.20.2-9146F?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=F37626)
+![image](https://img.shields.io/badge/Scikitlearn-1.2.0-9146F?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=F7931E)
+![image](https://img.shields.io/badge/TensorFlow-2.11.0-9146F?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00)
